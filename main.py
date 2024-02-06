@@ -3,4 +3,4 @@
 from src.textsummarizer.logging import logger
 
 # Then you can use the logger
-logger.info("Welcome to the project of text summarization")
+logger.info("Welcome to the project of text summarizationnnnn")
