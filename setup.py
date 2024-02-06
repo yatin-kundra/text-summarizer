@@ -7,7 +7,7 @@ __varsion__ = "0.0.0"
 
 REPO_NAME = "text-summarizer"
 AUTHOR_NAME = "yatin-kundra"
-SRC_REPO = "textsummarizer"
+SRC_REPO = "textSummarizer"
 AUTHOR_EMAIL = "ykundra44@gmail.com"
 
 setuptools.setup(
